@@ -1,0 +1,4 @@
+# No redistribuimos el APK; el script descarga la última versión oficial
+*.apk
+*.aab
+.DS_Store
