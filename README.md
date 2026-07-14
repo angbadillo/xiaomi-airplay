@@ -1,4 +1,5 @@
 # AirPlay gratis en Xiaomi TV Box (y cualquier Android TV / Google TV)
+# AirPlay to Xiaomi TV Box (and other AndroidTV or GoogleTV
 
 > **TL;DR (English):** Get free, open-source AirPlay screen mirroring on any Android TV / Google TV box by sideloading [android-airplay-server](https://github.com/jqssun/android-airplay-server) via ADB. No root, no ads, no paid apps. Run `./install.sh <BOX_IP>` and you're done.
 
